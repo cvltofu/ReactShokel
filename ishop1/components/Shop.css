@@ -1,11 +1,16 @@
 .Shop {
-	border: double blue 2px;
-	background-color: lightgrey;
+	border: double rgb(149, 149, 206) 2px;
+	background-color: rgb(187, 212, 235);
 	display: inline-block;
 	padding: 50px;
 }
 
-.Shop_Text {
-	color: red;
+.ShopName {
 	font-size: 20px;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
 }
