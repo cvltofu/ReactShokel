@@ -1,0 +1,16 @@
+.Shop {
+	border: double rgb(149, 149, 206) 2px;
+	background-color: rgb(187, 212, 235);
+	display: inline-block;
+	padding: 50px;
+}
+
+.ShopName {
+	font-size: 20px;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
