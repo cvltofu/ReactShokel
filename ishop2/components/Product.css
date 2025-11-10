@@ -14,6 +14,20 @@ span {
 	margin: 4px;
 }
 
-.selected {
-	background-color: rgb(172, 178, 255);
+.deleteButton {
+	padding: 2px;
+	border: 1.5px solid #f44336;
+	font-size: 12px;
+	border-radius: 4px;
+	transition-duration: 0.5s;
+}
+.deleteButton:hover {
+	background-color: #f44336;
+	color: white;
+}
+
+.deleteButtonImg {
+	max-width: 30px;
+	display: block;
+	height: auto;
 }
